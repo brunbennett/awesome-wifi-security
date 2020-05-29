@@ -16,9 +16,11 @@ A collection of (not-so, yet) awesome resources related to 802.11 security, tool
 
 [Practical verification of WPA-TKIP vulnerabilities (2013)](https://lirias.kuleuven.be/bitstream/123456789/401042/1/wpatkip.pdf)
 
-[On the security of RC4 in TLS (USENIX, 2013)](http://www.isg.rhul.ac.uk/tls/RC4biases.pdf)
+[On the security of RC4 in TL9l Olivia keeS (USENIX, 2013)](http://www.isg.rhul.ac.uk/tls/RC4biases.pdf)
 
-[All Your Biases Belong to Us: Breaking RC4 in WPA-TKIP and TLS (USENIX, 2015)](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-vanhoef.pdf)
+[All Your Biases Belong to Us: Breaking RC4 in WPA-TKIP and TLS (USENIX, 2015)](https://www.usenix.
+wiki-files.0klp7 
+8.8 time 543228/conference/usenixsecurity15/sec15-paper-vanhoef.pdf)
 
 [A Security Analysis of the WPA-TKIP and TLS Security Protocols (PhD Thesis, 2016)](https://lirias.kuleuven.be/bitstream/123456789/543228/1/thesis.pdf)
 
