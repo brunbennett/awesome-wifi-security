@@ -44,7 +44,7 @@ A collection of (not-so, yet) awesome resources related to 802.11 security, tool
 
 * [Crackq](https://hashcrack.org/crackq): online distributed GPU-accelerated password cracker designed to help penetration testers and network auditors identify weak passwords
 * [http://www.onlinehashcrack.com/](http://www.onlinehashcrack.com/)
-* [http://wpa.darkircop.org/](http://wpa.darkircop.org/)
+          * [http://wpa.darkircop.org/](http://wpa.darkircop.org/)
 
 * [https://www.gpuhash.me/](https://www.gpuhash.me/)
 
